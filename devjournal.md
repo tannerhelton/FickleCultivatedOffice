@@ -12,3 +12,5 @@ Outcome - I got most of the page done. Really all that's left is some tweeks lik
 
 ## 4/5/2020
 I am going to try to create a copy of youtube.
+
+I got a decent way through the website. I didn't get the navbar formatted like I want, but I got the format of the rest somewhat done. Obviously still needs a lot of touching up.
